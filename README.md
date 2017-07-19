@@ -1,2 +1,2 @@
-# 2017cpp
-a sample project to study C++
+# 課題
+fork してテストを通せ。
