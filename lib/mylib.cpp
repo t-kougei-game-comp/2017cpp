@@ -13,7 +13,6 @@ namespace mylib
 
 	Dog::Dog()
 	{
-		name[0] = 0;
 	}
 
 	Dog::~Dog()
